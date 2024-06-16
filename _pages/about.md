@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kris M Ali"
+title: "Kristian 'Kris' M Ali"
 author_profile: true
 redirect_from: 
   - /about/
