@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://krispyali.github.io/sitemap.xml
