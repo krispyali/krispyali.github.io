@@ -7,7 +7,7 @@ subtitle: <a href='#'>Linguist</a>.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Department of Linguistics</p>
     <p>University of California, Santa Barbara</p>
